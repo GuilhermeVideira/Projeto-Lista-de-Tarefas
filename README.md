@@ -1,9 +1,9 @@
-# Projeto Lista de Tarefas
+# 📋 Projeto Lista de Tarefas 📋
 Este seguinte projeto é uma atividade prática usando a linguagem de programação JavaScript.
 
 No modelo da prática desenvolvi um site para funcionalidade de listagem de tarefas. 
 
-👩🏻‍🏫 📊 📐 📈 📚 📉 🗒 📏 🧮 
+📓 📋 📌 🗂 📥 📑
 
 #
 
