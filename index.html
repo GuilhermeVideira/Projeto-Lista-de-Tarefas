@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="shortcut icon" href="./src/imagens/DesenhoTarefa.png" type="image/x-icon"> 
+
+    <link rel="stylesheet" href="./src/css/estilos.css">
+
+    <title> Lista de tarefas </title>
+
+    <style type="text/css">
+        body {
+            overflow-x: hidden; 
+        }
+      </style>
+
+</head>
+
+<body>
+
+    <div class="todo">
+        <div class="todo__title">  
+            <img width="50px" height="50px" class="imagem-tarefa" src="./src/imagens/DesenhoTarefa.png" alt="Imagem de tarefa."> 
+           --  Lista de Tarefas -- 
+           <img width="50px" height="50px" class="imagem-tarefa" src="./src/imagens/DesenhoTarefa.png" alt="Imagem de tarefa."> 
+        </div>
+
+        <div class="todo__list" id='todoList'> </div>
+
+        <div class="todo__new-item" id="newItem">
+            <div>&yfr;</div>
+            <div>&yfr;</div>
+            <input type="text" placeholder="Digite a tarefa e pressione enter para adicionar">
+            <div>&yfr;</div>
+            <div>&yfr;</div>
+        </div>
+    </div>
+
+    <script src="./src/js/interacao.js"></script>
+
+</body>
+</html>
